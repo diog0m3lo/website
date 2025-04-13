@@ -34,8 +34,8 @@ meu_website/
 
 1. Clonar o repositório:
    ```bash
-   git clone https://github.com/<teu-usuario>/<nome-do-repositorio>.git
-   cd <nome-do-repositorio>
+   git clone https://github.com/diog0m3lo/website
+   cd website
 
 2. Criar e ativar um ambiente virtual:
    ```bash
