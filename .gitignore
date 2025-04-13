@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+
+# Ficheiros de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações de ambiente sensíveis
+.env
+
+# Arquivos de logs
+*.log
+
+# Configuração de IDEs (exemplo: VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Outros ficheiros temporários
+*.tmp
+*.bak
+*.swp
