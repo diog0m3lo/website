@@ -38,13 +38,16 @@ meu_website/
    cd <nome-do-repositorio>
 
 2. Criar e ativar um ambiente virtual:
+   ```bash
     python3 -m venv venv
     source venv/bin/activate
 
-3. Instalar as dependências:
+4. Instalar as dependências:
+   ```bash
     pip install -r requirements.txt
 
-4. Executar o servidor Flask:
+6. Executar o servidor Flask:
+   ```bash
     python run.py
 
-5. Abrir o navegador em http://127.0.0.1:5000
+8. Abrir o navegador em http://127.0.0.1:5000
